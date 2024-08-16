@@ -32,6 +32,8 @@
 
 Hi. My name is Ivan, 경영정보시스템 석사. I invite you to learn and have fun together in the Not Google Devs society. 저만 아니라 여러분도 이 동아리 대표라 재미있는 프로젝트, 발표, 아이디어, 아무나 - 다 환영합니다. 이 동아리 멤버십을 통해 teamwork, critical thinking, communication 스킬들 연마되며 경쟁력을 갖게 되겠습니다
 
+Not Google Devs는 새롭게 나올 동아리라 멤버가 되려면 성함-학과-학년 (예: 박민수-컴퓨터과학-3년3학기) 카톡으로 보내주세요
+
 ## Contact
 KakaoTalk ID: divakaivan
 
