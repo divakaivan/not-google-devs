@@ -5,10 +5,7 @@
 ## 2024-2학기 모집          
 
 - Vice President
-  - 이벤트 기획
-  - 지식 전달
-  - 코딩 가능
-
+- Event planner
 - 멤버
 
 ## 뭐지?
