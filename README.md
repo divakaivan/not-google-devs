@@ -20,7 +20,6 @@
 * 영어 가능 분/영어 배우는 분
 
 ## 현재 세미나 스케줄
-* Stanford University Lectures
 * MLOps이란?
 * Data Engineering이란?
 * HuggingFace 뭐지?
