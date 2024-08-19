@@ -65,7 +65,7 @@ Requirements:
 
 Requirements:
 
-- develop a model of choice with a society member
+- develop a project of choice with a society member
 
 - attend 3 meetings
 
