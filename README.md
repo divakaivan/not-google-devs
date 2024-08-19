@@ -97,4 +97,6 @@ Requirements:
 
 - (optional) add the society and your level to your LinkedIn account
 
+#### Our goal is to encourage learning, communication, teamwork, critical thinking, presentation - all skills required in the work environment. 
+
 [Our LinkedIn](https://www.linkedin.com/company/not-google-devs/)
