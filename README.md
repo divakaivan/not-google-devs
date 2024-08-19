@@ -37,3 +37,64 @@ Not Google Devs는 새롭게 나올 동아리라 관심이 있으시다면 성�
 KakaoTalk ID: divakaivan
 
 Society LinkedIn: https://www.linkedin.com/company/not-google-devs/ 
+
+---
+
+_19.08.2024_
+
+# Society Member Levels
+
+**Newbie L0**
+
+Requirements:
+
+- attend our first meeting (3rd of Sep) 
+
+
+**Entry L1**
+
+Requirements:
+
+- attend 2 meetings
+
+- (optional) add the society and your level to your LinkedIn account
+
+
+
+**Junior L2**
+
+Requirements:
+
+- develop a model of choice with a society member
+
+- attend 3 meetings
+
+- (optional) add the society and your level to your LinkedIn account
+
+
+
+**Senior L3**
+
+Requirements:
+
+- present a paper or project in a society meeting on a subject of your choice
+
+- attend the society hackathon
+
+- attend 4 meetings
+
+- (optional) add the society and your level to your LinkedIn account
+
+
+
+**Lead L4**
+
+Requirements:
+
+- present a paper or project in a society meeting on a subject of your choice
+
+- finish top 3 in the society hackathon
+
+- (optional) add the society and your level to your LinkedIn account
+
+[Our LinkedIn](https://www.linkedin.com/company/not-google-devs/)
