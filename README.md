@@ -48,7 +48,7 @@ _19.08.2024_
 
 Requirements:
 
-- attend our first meeting (3rd of Sep) 
+- attend our first meeting (date: tbd)
 
 
 **Entry L1**
